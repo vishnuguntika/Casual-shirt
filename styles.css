@@ -1,0 +1,147 @@
+hr{
+  border: solid white 6px;
+  border-bottom: 2px solid #ebecf1;
+  width: 15%;
+  margin-left: 10px;
+  margin-right: 20px;
+}
+
+h1{
+  font-family: Arial, Helvetica, sans-serif;
+  color: #206a5d;
+}
+
+h2{
+  font-family: Arial, Helvetica, sans-serif;
+  color: #206a5d;
+  margin-top: 100px;
+
+}
+
+table {
+        border-collapse: separate;
+        border-spacing: 0 15px;
+      }
+      th {
+        background-color: #eeeeee;
+        color: #838383;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      th,
+      td {
+        width: 150px;
+        text-align: center;
+        border: 1px solid #838383;
+        padding: 5px;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+
+.ze img{
+  width: 200px;
+  height: 100px;
+}
+
+.wrap{
+  display: flex;
+  margin-top: 50px;
+
+}
+.ze{
+  padding-left: 10px;
+}
+.hy{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #838383;
+}
+.zey img{
+  width: 305px;
+  height: 400px;
+  padding-left: 350px;
+  margin-top: 50px;
+}
+.wrap1{
+  display: flex;
+}
+
+.button1 {
+  background-color: #eeeeee;
+  border-radius: 4px;
+  color: #ad9d9d;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 5% 3% 5% ;
+  cursor: pointer;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 150px;
+
+}
+.button2 {
+  background-color: #1dd3bd;
+  border-radius: 4px;
+  color: #204051;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin:  0px ;
+  cursor: pointer;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom:  10px;
+}
+.button {
+  background-color: #184d47;
+  border-radius: 4px;
+  color: white;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 150px;
+  width: 250px;
+  position: relative;
+  margin-top: -350px;
+
+}
+.button3 {
+  background-color: #1dd3bd;
+  border-radius: 4px;
+  color: #204051;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin:  0px ;
+  cursor: pointer;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom:  10px;
+}
+.button1:hover {
+  background-color: white;
+    color: black;
+    border: 2px solid #e7e7e7;
+}
+#input {
+  width: 1000px;
+  height: 10em;
+
+}
+
+.white-section{
+  background-color: #43d8c9;
+  text-align: center;
+  padding: 3% 15% 7%;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 14px;
+  left: 107px;
+top: 600px;
+}
