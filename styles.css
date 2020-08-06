@@ -132,6 +132,10 @@ table {
 #input {
   width: 1000px;
   height: 10em;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #838383;
+  back-ground color: #f7f7f7;
+  border-radius: 4px;
 
 }
 
